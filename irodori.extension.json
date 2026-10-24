@@ -3,7 +3,7 @@
   "manifestVersion": 1,
   "id": "irodori.doris",
   "name": "Doris Connector",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "irodori",
   "description": "Doris Connector contributes the Apache Doris database connector through the native connector ABI. The frontend speaks the MySQL wire protocol, so the connector talks to the FE query port and reads multi-catalog databases alongside the internal one.",
   "license": "MIT OR 0BSD",
